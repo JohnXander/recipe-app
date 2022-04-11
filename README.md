@@ -1,1 +1,1 @@
-# recipe-app
+# Vanilla JavaScript Recipe App
